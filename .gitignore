@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Build directory
+build/
+
+# Other ignored files
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
